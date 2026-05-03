@@ -210,5 +210,3 @@ generate-test-cases/
 | `显示学习记录` | 查看历史生成与偏好 |
 
 ## 📄 License
-
-MIT
