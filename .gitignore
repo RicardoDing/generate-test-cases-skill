@@ -1,0 +1,22 @@
+# 生成的临时文件和输出
+tmp/
+test-docs/
+
+# 记忆数据（含公司术语、项目路径、生成历史）
+.memory/
+
+# 公司特定配置（含内网IP、网关参数等环境信息）
+references/COMPANY-NOTES.md
+
+# 业务背景（设计上用于填写公司业务信息）
+references/BUSINESS-RULES.md
+
+# 内部痛点记录（含架构细节）
+目前待解决的痛点.txt
+
+# 杂项
+reqyurenebts/
+.claude/
+scripts/__pycache__/
+**/__pycache__/
+*.pyc
